@@ -12,7 +12,7 @@ import javax.servlet.annotation.WebFilter;
 import javax.servlet.http.HttpServletRequest;
 @WebFilter(urlPatterns = "*.do")
 public class loginfilter implements Filter {
-
+//commit
 	@Override
 	public void destroy() {
 		// TODO Auto-generated method stub
